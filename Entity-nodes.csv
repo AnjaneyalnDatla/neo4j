@@ -1,4 +1,4 @@
 id,name,description
-1,WCClaim-RAC,Claim Entity in Report a Claim System)
-2,WCClaim-DC,Claim Entity in Duck Creek System)
-3,WCClaim-ExPRS,Claim Entity in ExPRs System)
+1,WCClaim-RAC,Claim Entity in Report a Claim System
+2,WCClaim-DC,Claim Entity in Duck Creek System
+3,WCClaim-ExPRS,Claim Entity in ExPRs System
