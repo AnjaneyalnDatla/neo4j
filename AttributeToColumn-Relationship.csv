@@ -1,0 +1,4 @@
+attributeId,columnId,transformationRules
+4,10,"map as is"
+5,11,"mapped in format YYYY-MM-DD"
+6,12,"map as is"
