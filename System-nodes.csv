@@ -1,0 +1,5 @@
+id,name,alias,type,description
+1,RAC,eFNOL,Front End System,Electronic First Notice Of Loss System to enter Claims
+2,DuckCreek,duck,Claims Core System,SAS Product for WC Claims management owned by DuckCreek
+3,LDW,dwh,data warehouse system,Data Warehouse
+4,ExPRS,ExPRs,Claims Core System,In-house WC Claims Core System
