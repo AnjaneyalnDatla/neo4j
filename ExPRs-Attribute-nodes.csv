@@ -1,0 +1,4 @@
+id,name,displayName,alias,length,type,description
+1,contractMarketCode,Contract Market Code,Contract Number,15,AlphaNumeric,Field that holds the policy number details for a given claim in ExPRs
+2,injuryDate,Date of Injury,Accident Date,20,Date,Field that holds the accident date in ExPRs
+3,natureOfInjuryCode,Nature of Injury,Injury Cause,30,AlphaNumeric,Field that holds the cause of injury in ExPRs
