@@ -1,0 +1,4 @@
+id,name,displayName,alias,length,type,description
+1,contractNumber,Contract Number,Account Number,15,AlphaNumeric,Field that holds the contract number details for a given claim in RAC
+2,dateOfAccident,Date of Accident,Accident Date,20,Date,Field that holds the accident date in RAC
+3,natureOfInjury,Nature of Injury,Injury Type,30,AlphaNumeric,Field that holds the nature of injury in RAC
