@@ -8,7 +8,3 @@ id,name,displayName,alias,length,type,description
 7,contractMarketCode,Contract Market Code,Contract Number,15,AlphaNumeric,Field that holds the policy number details for a given claim in ExPRs
 8,injuryDate,Date of Injury,Accident Date,20,Date,Field that holds the accident date in ExPRs
 9,natureOfInjuryCode,Nature of Injury,Injury Cause,30,AlphaNumeric,Field that holds the cause of injury in ExPRs
-10,CNTR-ID,Contract Number,Account Number,15,AlphaNumeric,Field that holds the contract number details for a given claim in LDW Exprs Claim Table
-11,INJ-DTE,Date of Accident,Accident Date,20,Date,Field that holds the accident date in LDW Exprs Claim TableRAC
-12,NATR-OF-INJ-1-CDE,Nature of Injury,Injury Type,30,AlphaNumeric,Field that holds the nature of injury in LDW Exprs Claim Table
-
