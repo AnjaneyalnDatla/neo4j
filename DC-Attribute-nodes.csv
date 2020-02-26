@@ -1,0 +1,4 @@
+id,name,displayName,alias,length,type,description
+1,policyNumber,Policy Number,Policy Number,15,AlphaNumeric,Field that holds the policy number details for a given claim in DC
+2,dateOfAccident,Date of Accident,Accident Date,20,Date,Field that holds the accident date in DC
+3,detailedCauseOfInjury,Cause of Injury,Injury Cause,30,AlphaNumeric,Field that holds the cause of injury in DC
