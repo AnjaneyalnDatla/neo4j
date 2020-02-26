@@ -1,2 +1,2 @@
 id,name,description,values
-1,NatureOfInjury,Valid Value list for Nature of Injury in DuckCreek,[BURN,FRACTURE,CONCUSSION,SPRAIN]
+1,NatureOfInjury,Valid Value list for Nature of Injury in DuckCreek,'[BURN,FRACTURE,CONCUSSION,SPRAIN]'
