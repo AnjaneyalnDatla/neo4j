@@ -1,0 +1,7 @@
+sourceAttributeId,destinationAttributeId,transformationRules
+1,4,"map as is"
+2,5,"mapped in format YYYY-MM-DD"
+3,6,"https://libertymutual.sharepoint.com/:x:/r/sites/GRSClaimsexcite/_layouts/15/Doc.aspx?sourcedoc=%7B4EE7C430-6833-4AA0-B0FD-58589F5488DF%7D&file=Part%20of%20Body%20Nature%20of%20Accident%20Data%20Mapping%20.xlsx&action=default&mobileredirect=true"
+4,7,"map as is"
+5,8,"mapped in format YYYY-MM-DD"
+6,9,"https://libertymutual.sharepoint.com/:x:/r/sites/GRSClaimsexcite/_layouts/15/Doc.aspx?sourcedoc=%7B4EE7C430-6833-4AA0-B0FD-58589F5488DF%7D&file=Part%20of%20Body%20Nature%20of%20Accident%20Data%20Mapping%20.xlsx&action=default&mobileredirect=true"
