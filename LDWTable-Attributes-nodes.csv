@@ -1,0 +1,4 @@
+id,name,displayName,alias,length,type,description
+1,CNTR-ID,Contract Number,Account Number,15,AlphaNumeric,Field that holds the contract number details for a given claim in LDW Exprs Claim Table
+2,INJ-DTE,Date of Accident,Accident Date,20,Date,Field that holds the accident date in LDW Exprs Claim TableRAC
+3,NATR-OF-INJ-1-CDE,Nature of Injury,Injury Type,30,AlphaNumeric,Field that holds the nature of injury in LDW Exprs Claim Table
